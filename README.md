@@ -45,7 +45,7 @@
 | --- | --- | --- |----------------------------------------------------------------------------|
 | 1주차 (10/27~) | 소개 | 일정, 진행 방식, 계획 조율 + 세부 사항 결정 | [@phonil](https://github.com/phonil)                                       |
 | 2주차 (11/3~) | DB 기본 | I/O (SSD, HDD / 랜덤, 순차), 쿼리 실행 과정 (파싱, 최적화, 실행) | [@dnwldla](https://github.com/dnwldla), [@tkv00](https://github.com/tkv00) |
-| 3주차 (11/10~) | 트랜잭션, 잠금 | ACID, MVCC, 로그, 격리 수준, 잠금 |                                                                            |
+| 3주차 (11/10~) | 트랜잭션, 잠금 | ACID, MVCC, 로그, 격리 수준, 잠금 | [@phonil](https://github.com/phonil), [@dnwldla](https://github.com/dnwldla) |
 | 4주차 (11/17~) | 인덱스 | 인덱스(B+Tree, B-Tree, 전문검색), 인덱스 스캔 (Full, range, loose) |                                                                            |
 | 5주차 (11/24~) | 쿼리 최적화 | 조인 (NL, 소트 머지, 해시), 서브쿼리 |                                                                            |
 | 6주차 (12/1~) | 쿼리 최적화 | 정렬, Group By |                                                                            |
