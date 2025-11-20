@@ -10,11 +10,11 @@
 <br>
 
 ## 📢 진행 방식
-
 - 주 1회, **수요일 오후 6시**부터 약 50분 동안 대면으로 진행됩니다.
 - 해당 주차에 공부한 내용을 자유롭게 정리 후 **하단 보드에 제출**합니다.
     - 보드에 바로 작성해도 좋고, 다른 곳에 작성한 후 링크로 첨부해도 좋습니다.
     - 매주 스터디 전까지 제출합니다.
+- 이전 주차 내용 복기 문제에 대한 의견을 나눕니다.
 - **매주 발표자 2명을 랜덤**으로 뽑고, 학습한 내용을 설명, 발표합니다. (지원자 우선)
 - 질의응답 및 의견을 나눕니다.
 
@@ -46,7 +46,7 @@
 | 1주차 (10/27~) | 소개 | 일정, 진행 방식, 계획 조율 + 세부 사항 결정 | [@phonil](https://github.com/phonil)                                       |
 | 2주차 (11/3~) | DB 기본 | I/O (SSD, HDD / 랜덤, 순차), 쿼리 실행 과정 (파싱, 최적화, 실행) | [@dnwldla](https://github.com/dnwldla), [@tkv00](https://github.com/tkv00) |
 | 3주차 (11/10~) | 트랜잭션, 잠금 | ACID, MVCC, 로그, 격리 수준, 잠금 | [@phonil](https://github.com/phonil), [@dnwldla](https://github.com/dnwldla) |
-| 4주차 (11/17~) | 인덱스 | 인덱스(B+Tree, B-Tree, 전문검색), 인덱스 스캔 (Full, range, loose) |                                                                            |
+| 4주차 (11/17~) | 인덱스 | 인덱스(B+Tree, B-Tree, 전문검색), 인덱스 스캔 (Full, range, loose) | [@Jsnooopy](https://github.com/Jsnooopy), [@phonil](https://github.com/phonil) |
 | 5주차 (11/24~) | 쿼리 최적화 | 조인 (NL, 소트 머지, 해시), 서브쿼리 |                                                                            |
 | 6주차 (12/1~) | 쿼리 최적화 | 정렬, Group By |                                                                            |
 | 7주차 (12/8~) | 미정 |  |                                                                            |
