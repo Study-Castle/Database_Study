@@ -49,5 +49,5 @@
 | 4주차 (11/17~) | 인덱스          | 인덱스(B+Tree, B-Tree, 전문검색), 인덱스 스캔 (Full, range, loose) | [@Jsnooopy](https://github.com/Jsnooopy), [@phonil](https://github.com/phonil) |
 | 5주차 (11/24~) | 인덱스 튜닝 + 총정리 | 인덱스 튜닝 + 총정리 | [@tkv00](https://github.com/tkv00), [@phonil](https://github.com/phonil) |
 | 6주차 (12/1~) | 쿼리 최적화 1     | 조인 (NL, 소트 머지, 해시), 서브쿼리 | [@dnwldla](https://github.com/dnwldla), [@tkv00](https://github.com/tkv00)  |
-| 7주차 (12/8~) | 쿼리 최적화 2     | 정렬, Group By, Limit N |                                                                                |
-| 8주차 (12/15~) | 면접 질문 정리     | 기술 면접 빈출 질문 정리 |                                                                                |
+| 7주차 (12/8~) | 쿼리 최적화 2     | 정렬, Group By, Limit N | [@Jsnooopy](https://github.com/Jsnooopy) |
+| 8주차 (??) | 면접 질문 정리     | 기술 면접 빈출 질문 정리 |                                                                                |
